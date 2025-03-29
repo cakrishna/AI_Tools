@@ -344,7 +344,6 @@ pyrightconfig.json
 *.sql
 *.SQLite
 
-*.txt
 
 # Installer logs #
 ##################

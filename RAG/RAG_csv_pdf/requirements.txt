@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain_ollama
+langchain-groq
+faiss-gpu
+pypdf
+notebook
+python-dotenv
+streamlit
